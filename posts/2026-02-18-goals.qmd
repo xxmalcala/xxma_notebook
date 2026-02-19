@@ -1,0 +1,45 @@
+---
+title: "February Goals and Daily Entries"
+author: "Xyrus Maurer-Alcalá"
+date: "2026-02-18"
+categories: [goals, daily-entries]
+description: "February 2026 goals and daily entries"
+image: ""
+---
+
+# Overview
+
+February 2026 goals and daily notebook entries. 
+
+## Goals
+
+### Writing and manuscripts 
+
+1. ~~Finish eToL manuscript~~
+2. Results for SAG-phylogenomics
+3. Establish fundamental lab protocols
+
+### Analysis and Benchwork
+
+1. Build HMMs for EukPhylo datasets
+2. Finish taxon selection for in-house work
+3. Firmly establish microeukaryote cultures
+4. Stare at "BAT"s for contamination and apicomplexan projects
+
+### Funding
+
+1. ~~Submit NSF PurSUiT~~
+
+### Other
+
+1. ~~Develop personal website~~ 
+2. Smooth out student semester goals and setup
+3. Help students setup digital notebooks
+
+## **Daily Log**   
+
+### February 18
+
+- HMM slides
+- Tetrahymena media pepared
+-- needs autoclaving
