@@ -1,0 +1,54 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Xyrus X. Maurer-Alcalá, PhD"
+  #site-url: "https://ahuffmyer.github.io"
+  #google-analytics: # something to come here
+  #site-url: https://your-website-url.example.com # you must change this appropriately for RSS feeds to work properly
+  navbar:
+    logo: headshots/logo.png
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        menu:
+          - text: "Overview"
+            href: "research.qmd"
+          - text: "Eukaryotic diversity"
+            href: "theme-eukdiversity.qmd"
+          - text: "Molecular basis of adaptation"
+            href: "theme-adaptation.qmd"
+          - text: "Origin of eukaryotic innovations"
+            href: "theme-eukinnovation.qmd"
+      - text: "Lab Notebook"
+        href: notebook.qmd
+      - text: "Lab Handbook"
+        href: https://alcalalab.github.io/resources/
+      - text: "Gallery"
+        href: gallery.qmd      
+    right:
+      - icon: github
+        href: https://github.com/xxmalcala
+  
+  page-footer:
+    left: |
+      © 2026 Xyrus Maurer-Alcalá
+
+format:
+  html:
+    theme: lux
+ #     light: lux
+ #     dark: darkly
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    link-external-newwindow: true
+    link-external-icon: false
+
+execute:
+  freeze: auto
+
+
+

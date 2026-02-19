@@ -1,0 +1,61 @@
+---
+title: "Xyrus X. Maurer-Alcalá"
+page-layout: full
+---
+
+::: {.hero-grid}
+
+::: {.hero-text}
+#### Eukaryotic Diversity and Evolution
+
+:::
+<!-- 
+::: {.hero-image}
+![](headshots/){alt="" class="headshot"}
+![](headshots/){alt="" class="fieldshot"}
+:::
+-->
+
+:::
+
+<hr class="section-divider">
+
+::: {.content-card}
+## About Me
+
+I am an Assistant Professor William & Mary whose research program integrates computational approaches with molecular biology to understand how eukaryotic diversification over deep time scales, origin of evolutoinarily "young" genes, molecular basis of adaptation, and how we can further "break" the textbook rules of life!
+
+Here you'll find information about my research, outreach and education activities, and my comprehensive lab notebook documenting ongoing projects and findings.
+:::
+
+<hr class="section-divider">
+
+::: {.content-card}
+## Contact
+
+##### Xyrus X. Maurer-Alcalá, PhD 
+Assistant Professor
+Biology Department  
+William & Mary  
+
+##### Email:  
+[xxmaureralcala (at) wm.edu](mailto:xxmaureralcala@wm.edu)  
+
+##### Mailing Address:  
+540 Landrum Drive  
+Williamsburg, VA 23188  
+
+##### Office Location:   
+Integrated Science Center 3  
+University of Washington  
+Room 3287  
+
+---
+
+### Find me online
+
+- [GitHub](https://github.com/xxmalcala)  
+- [Google Scholar](https://scholar.google.com/citations?user=SxrTG9gAAAAJ&hl=en&authuser=1)  
+- [ORCID](https://orcid.org/0000-0002-7499-9369)
+:::
+
